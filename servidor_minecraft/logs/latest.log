@@ -1,116 +1,41 @@
-[16:50:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:50:20] [ServerMain/INFO]: Loaded 7 recipes
-[16:50:21] [ServerMain/INFO]: Loaded 1271 advancements
-[16:50:21] [Server thread/INFO]: Starting minecraft server version 1.20
-[16:50:21] [Server thread/INFO]: Loading properties
-[16:50:21] [Server thread/INFO]: Default game type: SURVIVAL
-[16:50:21] [Server thread/INFO]: Generating keypair
-[16:50:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:50:22] [Server thread/INFO]: Using epoll channel type
-[16:50:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:50:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:50:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:50:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:50:22] [Server thread/INFO]: Preparing level "world"
-[16:50:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:36] [Server thread/INFO]: Time elapsed: 8825 ms
-[16:50:36] [Server thread/INFO]: Done (14.146s)! For help, type "help"
-[16:51:21] [Server thread/INFO]: Lea[/127.187.236.115:59515] logged in with entity id 77 at (-499.6162338448461, 63.0, 138.59942395431275)
-[16:51:21] [Server thread/INFO]: Lea joined the game
-[16:51:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[16:51:51] [Server thread/INFO]: Lea lost connection: Timed out
-[16:51:51] [Server thread/INFO]: Lea left the game
-[16:52:24] [Server thread/INFO]: Lea[/127.187.236.115:33919] logged in with entity id 590 at (-488.2990060642346, 69.08808046459396, 136.90887673912414)
-[16:52:24] [Server thread/INFO]: Lea joined the game
-[16:53:21] [Server thread/WARN]: Lea moved too quickly! -14.980932663407145,10.351191330480646,-1.8355688752217816
-[16:59:46] [Server thread/INFO]: Lea fell from a high place
-[17:07:09] [Server thread/INFO]: Lea fell from a high place
-[17:25:28] [Server thread/INFO]: Lea was doomed to fall
-[17:28:22] [Server thread/INFO]: Lea lost connection: Disconnected
-[17:28:22] [Server thread/INFO]: Lea left the game
-[17:28:58] [Server thread/INFO]: Lea[/127.187.236.115:53263] logged in with entity id 12649 at (-464.701860395237, 126.0, 69.54662294206577)
-[17:28:58] [Server thread/INFO]: Lea joined the game
-[17:29:42] [Server thread/INFO]: [Lea: Reset all scores for Lea]
-[17:35:00] [Server thread/INFO]: thiagoo[/127.117.208.150:36559] logged in with entity id 14099 at (-407.01895026327685, 67.5, 215.7770345900888)
-[17:35:00] [Server thread/INFO]: thiagoo joined the game
-[17:36:16] [Server thread/INFO]: [Not Secure] <thiagoo> gil
-[17:36:21] [Server thread/INFO]: [Not Secure] <Lea> q
-[17:36:25] [Server thread/INFO]: [Not Secure] <thiagoo> presico esp
-[17:36:36] [Server thread/INFO]: [Not Secure] <Lea> esp?
-[17:36:36] [Server thread/INFO]: [Not Secure] <thiagoo> para hacer la granga de piedra
-[17:36:45] [Server thread/INFO]: [Not Secure] <thiagoo> veni
-[17:36:47] [Server thread/INFO]: [Not Secure] <thiagoo> p
-[17:36:50] [Server thread/INFO]: [Not Secure] <thiagoo> tp
-[17:37:03] [Server thread/INFO]: [Not Secure] <Lea> q
-[17:37:21] [Server thread/INFO]: [Not Secure] <Lea> no
-[17:37:25] [Server thread/INFO]: [Not Secure] <thiagoo> las dos cosaas preciso
-[17:37:27] [Server thread/INFO]: [Not Secure] <Lea> hacelos
-[17:37:33] [Server thread/INFO]: [Not Secure] <Lea> hacelos
-[17:37:36] [Server thread/INFO]: [Not Secure] <thiagoo> si como?
-[17:37:41] [Server thread/INFO]: [Not Secure] <Lea> veni
-[17:37:47] [Server thread/INFO]: [Not Secure] <thiagoo> yaseno lo voy a sacar
-[17:38:09] [Server thread/INFO]: [Not Secure] <Lea> apreta el libro
-[17:38:26] [Server thread/INFO]: [Not Secure] <Lea> en la mesa de crafteo
-[17:38:43] [Server thread/INFO]: [Not Secure] <Lea> y ahi te dice como hacer las cosas
-[17:41:05] [Server thread/INFO]: [Not Secure] <thiagoo> gil los pistones q enpuja no me aparese
-[17:41:45] [Server thread/INFO]: [Not Secure] <thiagoo> respton?
-[17:43:07] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[17:47:16] [Server thread/WARN]: Lea moved too quickly! -17.941637538027294,2.796647696929938,0.08361774060409743
-[17:48:10] [Server thread/INFO]: Lea was slain by thiagoo
-[17:49:24] [Server thread/INFO]: Lea was slain by thiagoo
-[17:50:26] [Server thread/INFO]: thiagoo was slain by Lea
-[17:51:37] [Server thread/INFO]: thiagoo was slain by Lea
-[17:51:50] [Server thread/INFO]: [Not Secure] <Lea> no espames el click
-[17:52:10] [Server thread/INFO]: [Lea: Teleported thiagoo to Lea]
-[17:53:31] [Server thread/INFO]: thiagoo was slain by Lea
-[17:54:00] [Server thread/INFO]: [Not Secure] <Lea> te llamo
-[17:54:20] [Server thread/INFO]: [Not Secure] <thiagoo> no tengo bateria en los abriculares
-[17:54:47] [Server thread/INFO]: [Not Secure] <Lea> ta te quedas quieto
-[17:54:57] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[17:54:58] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[17:54:58] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[17:56:05] [Server thread/INFO]: [Not Secure] <thiagoo> preciso hierro
-[17:56:17] [Server thread/INFO]: [Not Secure] <thiagoo> el giova cuando va hacer la granga
-[17:56:17] [Server thread/INFO]: [Not Secure] <Lea> buno
-[17:56:26] [Server thread/INFO]: [Not Secure] <Lea> no se
-[17:58:22] [Server thread/INFO]: [Not Secure] <thiagoo> como funciona eso
-[17:58:36] [Server thread/INFO]: [Not Secure] <Lea> sola
-[17:58:52] [Server thread/INFO]: [Not Secure] <thiagoo> yyy esa mini granga
-[17:59:10] [Server thread/INFO]: [Not Secure] <Lea> de caña de azucar
-[18:02:45] [Server thread/INFO]: [Not Secure] <Lea> 544 -144
-[18:02:59] [Server thread/INFO]: [Not Secure] <Lea> 544 -144
-[18:03:12] [Server thread/WARN]: Lea moved too quickly! 18.302060035544795,-1.9804332309334995,-2.8980734277930367
-[18:03:15] [Server thread/WARN]: Lea moved too quickly! 18.35669233523663,-1.63438061486778,-2.9048886670662313
-[18:04:47] [Server thread/INFO]: Lea lost connection: Timed out
-[18:04:47] [Server thread/INFO]: Lea left the game
-[18:04:47] [Server thread/INFO]: Lea[/127.174.81.16:38121] logged in with entity id 29530 at (-398.9706798443138, 64.17675927506424, 174.64295642102377)
-[18:04:47] [Server thread/INFO]: Lea joined the game
-[18:05:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[18:06:02] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[18:06:03] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[18:08:06] [Server thread/WARN]: thiagoo moved too quickly! -9.705501974410538,0.0,2.802997645516001
-[18:08:56] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
-[18:09:35] [Server thread/INFO]: [Not Secure] <thiagoo> voy a aplanar
-[18:09:46] [Server thread/INFO]: [Not Secure] <Lea> donde
-[18:09:54] [Server thread/INFO]: [Not Secure] <thiagoo> aca
-[18:10:03] [Server thread/INFO]: [Not Secure] <Lea> vapi ojo con la granja
-[18:10:08] [Server thread/INFO]: [Not Secure] <thiagoo> dale
-[18:11:06] [Server thread/WARN]: thiagoo moved too quickly! -9.784551833884109,-2.227688487544981,-0.9434488967847301
-[18:14:06] [Server thread/INFO]: [Not Secure] <thiagoo> vpi
+[18:57:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:57:33] [ServerMain/INFO]: Loaded 7 recipes
+[18:57:34] [ServerMain/INFO]: Loaded 1271 advancements
+[18:57:34] [Server thread/INFO]: Starting minecraft server version 1.20
+[18:57:34] [Server thread/INFO]: Loading properties
+[18:57:34] [Server thread/INFO]: Default game type: SURVIVAL
+[18:57:34] [Server thread/INFO]: Generating keypair
+[18:57:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:57:35] [Server thread/INFO]: Using epoll channel type
+[18:57:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:57:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:57:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:57:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:57:35] [Server thread/INFO]: Preparing level "world"
+[18:57:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:57:50] [Server thread/INFO]: Time elapsed: 9130 ms
+[18:57:50] [Server thread/INFO]: Done (14.952s)! For help, type "help"
+[18:59:02] [Server thread/INFO]: Lea[/127.109.118.214:38595] logged in with entity id 83 at (-458.64694086112866, 64.5625, 191.53152927377147)
+[18:59:02] [Server thread/INFO]: Lea joined the game
+[18:59:32] [Server thread/INFO]: Lea lost connection: Timed out
+[18:59:32] [Server thread/INFO]: Lea left the game
+[18:59:57] [Server thread/INFO]: Lea[/127.109.118.214:52451] logged in with entity id 538 at (-448.70149441944693, 66.10000000000005, 193.49142300245663)
+[18:59:57] [Server thread/INFO]: Lea joined the game
