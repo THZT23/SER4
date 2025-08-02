@@ -36,3 +36,10 @@
 [20:00:30] [Server thread/INFO]: Lea joined the game
 [20:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3071ms or 61 ticks behind
 [20:00:37] [Server thread/WARN]: UUID of added entity already exists: bsc['Pig'/306, l='ServerLevel[world]', x=400.70, y=106.00, z=-305.26]
+[21:12:21] [Server thread/WARN]: Lea moved too quickly! 1.2668822126705663,-3.37787558824985,17.28453851846058
+[21:15:00] [Server thread/WARN]: Lea moved too quickly! 16.99288229925712,-1.8109156728642546,4.621990537833682
+[21:15:04] [Server thread/WARN]: Lea moved too quickly! 18.35971734661331,-1.8211756225363587,3.338419098844497
+[21:15:06] [Server thread/WARN]: Lea moved too quickly! 18.353426363941097,-1.4597762549280304,2.576973681450994
+[21:15:34] [Server thread/WARN]: Lea moved too quickly! 0.9417542823974827,-1.9504287026628617,-18.38843728193264
+[21:18:50] [Server thread/INFO]: Lea lost connection: Disconnected
+[21:18:50] [Server thread/INFO]: Lea left the game
