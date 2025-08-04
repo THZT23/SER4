@@ -63,3 +63,6 @@
 [05:54:31] [Server thread/INFO]: [Lea: Set own game mode to Spectator Mode]
 [05:54:39] [Server thread/WARN]: Lea moved too quickly! 9.799451756454985,3.3750001341103513,0.042118457678455457
 [05:55:12] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
+[06:00:42] [Server thread/INFO]: Villager byb['Villager'/17917, l='ServerLevel[world]', x=552.54, y=66.02, z=-116.61] died, message: 'Villager was slain by Lea'
+[06:02:00] [Server thread/INFO]: Lea lost connection: Disconnected
+[06:02:00] [Server thread/INFO]: Lea left the game
