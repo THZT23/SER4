@@ -51,3 +51,4 @@
 [05:27:55] [Server thread/WARN]: Lea moved too quickly! -5.690879690092402,-0.8576450083117066,-17.59098848970899
 [05:28:00] [Server thread/WARN]: Lea moved too quickly! -5.6212999005290385,4.874055203249441,-15.758848019894288
 [05:29:26] [Server thread/INFO]: Villager byb['Villager'/10575, l='ServerLevel[world]', x=520.32, y=52.47, z=-125.24] died, message: 'Villager tried to swim in lava to escape Lea'
+[05:41:54] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=546, y=64, z=-111} gu{x=545, y=66, z=-111}
