@@ -45,3 +45,9 @@
 [04:52:54] [Server thread/INFO]: Lea joined the game
 [04:56:28] [Server thread/WARN]: Lea moved too quickly! -12.977541756978894,9.095797977836028,-7.761485353922524
 [05:05:28] [Server thread/WARN]: Lea moved wrongly!
+[05:22:26] [Server thread/INFO]: Lea fell from a high place
+[05:24:10] [Server thread/INFO]: Lea tried to swim in lava
+[05:27:40] [Server thread/WARN]: Lea moved too quickly! 18.147088460105437,-0.5847131459915147,-3.2199125017937433
+[05:27:55] [Server thread/WARN]: Lea moved too quickly! -5.690879690092402,-0.8576450083117066,-17.59098848970899
+[05:28:00] [Server thread/WARN]: Lea moved too quickly! -5.6212999005290385,4.874055203249441,-15.758848019894288
+[05:29:26] [Server thread/INFO]: Villager byb['Villager'/10575, l='ServerLevel[world]', x=520.32, y=52.47, z=-125.24] died, message: 'Villager tried to swim in lava to escape Lea'
