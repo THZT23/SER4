@@ -52,3 +52,14 @@
 [05:28:00] [Server thread/WARN]: Lea moved too quickly! -5.6212999005290385,4.874055203249441,-15.758848019894288
 [05:29:26] [Server thread/INFO]: Villager byb['Villager'/10575, l='ServerLevel[world]', x=520.32, y=52.47, z=-125.24] died, message: 'Villager tried to swim in lava to escape Lea'
 [05:41:54] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=546, y=64, z=-111} gu{x=545, y=66, z=-111}
+[05:53:11] [Server thread/INFO]: Lea was slain by Iron Golem
+[05:53:31] [Server thread/INFO]: [Lea: Set own game mode to Spectator Mode]
+[05:53:35] [Server thread/WARN]: Lea moved too quickly! 2.097389358545767,4.1250001636430795,9.929912429832441
+[05:53:40] [Server thread/WARN]: Lea moved too quickly! 10.789869152114775,0.0,1.4168744503305248
+[05:53:43] [Server thread/WARN]: Lea moved too quickly! 11.41685489370623,0.0,1.489344509047342
+[05:54:11] [Server thread/WARN]: Lea moved too quickly! 2.0290100160784164,0.0,-10.67149868722911
+[05:54:27] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
+[05:54:28] [Server thread/INFO]: Lea fell from a high place
+[05:54:31] [Server thread/INFO]: [Lea: Set own game mode to Spectator Mode]
+[05:54:39] [Server thread/WARN]: Lea moved too quickly! 9.799451756454985,3.3750001341103513,0.042118457678455457
+[05:55:12] [Server thread/INFO]: [Lea: Set own game mode to Survival Mode]
